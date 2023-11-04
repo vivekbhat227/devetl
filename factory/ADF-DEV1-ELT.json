@@ -1,0 +1,9 @@
+{
+	"name": "ADF-DEV1-ELT",
+	"location": "canadaeast",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "adfaa3bc-b893-4cda-9450-e87704cd62cd",
+		"tenantId": "26f124d4-cf1a-4ebb-9d51-94bae48fbad3"
+	}
+}
